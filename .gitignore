@@ -1,5 +1,6 @@
 /venv
 /config
+.idea
 .env
 /data/database.py
 /data/main.db
