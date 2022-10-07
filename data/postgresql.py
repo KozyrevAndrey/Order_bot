@@ -1,4 +1,3 @@
-#import asyncio
 import asyncpg
 from asyncpg.pool import Pool
 
